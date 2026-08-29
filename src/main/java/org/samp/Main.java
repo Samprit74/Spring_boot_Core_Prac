@@ -17,9 +17,10 @@ public class Main {
     System.out.println(i+Integer.MAX_VALUE);
 
     System.out.println(i+Integer.MIN_VALUE+Double.MAX_VALUE);
+        System.out.println(i+Integer.MIN_VALUE+Double.MAX_VALUE);
 
 
 
-        }
+    }
 
 }
